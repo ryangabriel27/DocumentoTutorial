@@ -1,0 +1,28 @@
+{
+  "filmes": [
+    {
+      "id": "cd68",
+      "nome": "Os Vingadores",
+      "categoria": "Acao",
+      "duracao": 143,
+      "ano": 2012,
+      "classificacao": 9
+    },
+    {
+      "id": "bbec",
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "categoria": "Fantasia",
+      "duracao": 152,
+      "ano": 2001,
+      "classificacao": 10
+    },
+    {
+      "id": "9b4a",
+      "nome": "Interstellar",
+      "categoria": "Ficcao",
+      "duracao": 120,
+      "ano": 2010,
+      "classificacao": 10
+    }
+  ]
+}
